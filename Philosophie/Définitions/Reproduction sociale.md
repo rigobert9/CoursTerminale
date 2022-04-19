@@ -1,0 +1,3 @@
+Phénomène sociologique qui provient de l'observation que les enfants font souvent le même type de travail que leurs parents (notamment entre travaux d'exécution et de cadre).
+Cette observation mène ainsi à théoriser le [[déterminisme]] social et à l'enfermement des classes sociales.
+Ainsi, le fait de s'ouvrir et de prendre conscience de tous les milieux permet de se rendre libre du conditionnement du milieu social.

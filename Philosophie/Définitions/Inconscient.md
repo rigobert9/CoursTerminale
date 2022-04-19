@@ -1,0 +1,1 @@
+Selon [[Sigmund Freud|Freud]], l'esprit humain est séparé entre conscient et insconscient. La partie inconsciente (qui n'est pas [[Conscience|consciente]]) peut être accessible ou refoulée par le surmoi, et est composée à la fois de choses qui ne sont pas accessibles en permanence (mémoire) ou de pulsions, de l'ordre animal.

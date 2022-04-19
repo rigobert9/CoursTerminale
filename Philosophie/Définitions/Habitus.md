@@ -1,0 +1,1 @@
+Selon [[Pierre Bourdieu]], habitudes, ensmeble des façons de penser et d'être, hérités par la classe dans laquelle on naît. Il prend pour exemple les goûts en musique ou les activités, exemples pertinents selon lui.

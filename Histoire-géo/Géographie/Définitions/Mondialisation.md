@@ -1,0 +1,5 @@
+La mondialisation est un processus d'accroissement des échanges internationaux et d'accentuation de l'interdépendance entre les territoires.
+- Acteurs : Etats et entreprises (FTN), organisation internationales et régionales (UE, FMI, BIRD, Mercossour, Alena, etc.).
+- Moyens : Ressources (quelque chose à échanger), une politique économique libérale (notamment libre-échange), des moyens de communication, des moyens de transport (nottament le transport maritime, 90% du commerce global, grâce à sa rentabilité, son prix bas et son ergonomie (containerisation), fiabilité).
+- Flux : Marchandises, informations, personnes (touristiques et migratoires, migrations économiques ou clandestines)
+- Mise en concurrence, hiérarchisation et recomposition des territoires : Métropolisation, littoralisation (difficulté des pays enclavés), développement durable.

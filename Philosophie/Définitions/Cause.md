@@ -1,0 +1,1 @@
+Phénomène antérieur à une chose, qui permet de l'expliquer.

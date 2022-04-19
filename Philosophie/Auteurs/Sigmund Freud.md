@@ -1,0 +1,5 @@
+---
+aliases: Freud
+---
+Penseur du 20ème siècle, créateur de la [[psychanalyse]]. Compare l'esprit à un iceberg, constitué du [[Conscience|conscient]], du [[Préconscience|préconscient]] et de l'[[inconscient]]. Il appelle la partie imergée de l'iceberg le ça, un réservoir des désirs primaires inavouables et qu'on ne peut pas remplir socialement (violence, sexualité, etc.). Il nomme une autre partie du psychisme le surmoi, qui essaie de refouler les pulsions (complexe d'Oeudipe par exemple).
+Freud considère que l'homme a subi 3 "blessures narcissiques", qui ont abaissé sa place dans l'univers : l'héliocentrisme (ce qui est faux dans la vision greque), la théorie de l'évolution (qui reserre encore la proximité au singe, et une fois qu'on abandonne l'[[Evolutionnisme|évolutionnisme]]), et la découverte par lui-même de l'[[inconscient]]
