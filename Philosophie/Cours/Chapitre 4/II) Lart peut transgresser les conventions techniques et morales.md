@@ -1,10 +1,82 @@
 # L'art peut transgresser les conventions techniques et sociales
 ## a) L'imagination, la créativité et l'invention sont plus importants que l'imitation
-### Texte : 
+### Texte : [[Hegel]], *L'Esthétique*, Introduction, 1835
 Postule que si l'art a pour but d'imiter la nature, alors il est toujours moins
-bon que la nature et n'a donc pas d'intérêt (pareil dans el cas d'imitation
-d'évènements).
+bon que la nature (la copie est moins parfaite que son modèle) et n'a donc pas
+d'intérêt (pareil dans le cas d'imitation d'évènements).
 Donne comme raison à l'art la volonté [[démiurge]] de prouver ce qu'on peut
 faire et créer quelque chose.
 Postule donc que quelque chose a un intérêt par le fait qu'il est un original,
 et non une imitation.
+Intérêt de l'art est donc la création surgissant de l'esprit humain
+=> accorder de l'importance seulement à quelque chose d'original et jamais à sa
+copie ?
+But de l'art de faire ressentir les émotions présentes ?
+
+Un outil technique aurait-il donc plus de valeur qu'une imitation ?
+=> oui car il s'agit du produit de la créativité
+La nature ne reste-t-elle pas néanmoins toujours une source d'inspiration
+(exemple : les oiseaux -> les avions) ? Pouvons-nous vraiment créer quelque
+chose de toutes pièces ?
+
+N'est-ce pas une conception réductrice de l'art que de le faire rendre
+équivalent à la créativité ? L'esthétique n'a-t-elle pas une place aux côtés de
+la fonction d'originalité ? Le concept l'emporte-t-il sur l'apparence sensible ?
+Est-ce légitime ? (exemple des oeuvres d'art contemporain, comme les ready-made)
+
+Thème : L'art est l'imitation de la nature
+Problématique : L'art doit-il imiter la nature ?
+Thèse : Non, l'art ne doit pas imiter la nature, car il perd de sa valeur s'il
+essaie d'imiter quelque chose
+Problème : L'homme peut-il créer quelque chose qui surgisse exclusivement de son
+esprit ?
+Solution au problème : L'artiste peut éventuellement s'inspirer de la nature
+dans son inventivité.
+Autre problème : L'inventivité et la créativité de quelques sont-elles les
+seules choses qui bandent quelque chose artistique ? Cette conception de l'art
+n'est-elle pas trop réductrice ?
+
+#### Quelques exemples de peintures inventives
+##### *Les demoiselles d'Avignon*, par Pablo Picasso, 1907
+Très inspiré des masques africains
+Ressemblance vole en éclat : libération des codes de ressemblance des
+"beaux-arts"
+Se libère des règles morales : prend pour modèle des prostituées, de façon
+naturelle
+Messages : dénonce la mauvaise condition des prostituées, dont le visage est
+déformé
+Crée une forme d'esthétique en relief avec le cubisme
+
+##### *Le lion, ayant faim, se jette sur l'antilope*, H. Rousseau, 1897
+Art naïf : se caractérise par des proportions et une perspective mal maîtrisée
+Insiste sur des symboles
+S'attache à représenter un monde enfantin et imaginé
+
+##### *Persistance de la mémoire*, Salvador Dali, 1931
+Montres déformées et fondues : univers de l'artiste, singulier
+Offre une réflexion sur le temps qui passe
+
+##### *Cantique des cantiques*, Marc Chagall, 1966
+Se libère de la représentation et utilise des symboles et le style même de la
+peinture pour exprimer une certaine spiritualité
+
+##### *Carré blanc sur fond blanc*, K. Malevitch, 1918
+Se libère des considérations esthétiques pour mettre en scène une démarche de
+pensée : "on ne peut pas représenter quelque chose de spirituel"
+Démarche iconoclaste
+La représentation est donc toujours vaine -> représentation en ce tableau
+
+##### *Composition VII*, V. Kadinsky, 1913
+Essaie de faire vivre une expérience au spectateur : veut faire évoquer de la
+musique et des sons avec des couleurs
+La peinture est comme une partition, emportant le spectateur
+
+##### *Bleu*s de Miro
+Essaie de montrer dans sa démarche une recherche de l'infini, de quelque chose
+au delà
+
+#### Questions supplémentaires sur le texte
+Les faussaires sont-ils des artistes ?
+Quelle est la valeur d'une oeuvre devenue répétitive ou avec un concept déjà
+réalisé ?
+Qui est l'artiste entre le créateur et l'interprète ?
