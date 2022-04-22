@@ -80,3 +80,28 @@ Les faussaires sont-ils des artistes ?
 Quelle est la valeur d'une oeuvre devenue répétitive ou avec un concept déjà
 réalisé ?
 Qui est l'artiste entre le créateur et l'interprète ?
+L'expression libre de l'artiste a-t-elle besoin de pouvoir s'affranchir de la
+morale ?
+Si l'oeuvre peut avoir un effet sur le spectateur, celui-ci est-il néfaste si
+l'oeuvre est immorale ? (peur du changement de la société par une oeuvre)
+
+Les oeuvres d'art nouvelles, souvent très libres, semblent pouvoir causer de la
+réflexion et du chaos du la société (voir censure de "l'art dégénéré") sous le
+régime nazi.
+
+##### Exemple du *Déjeuner sur l'herbe* de E. Manet, 1853
+Oeuvre considérée comme choquant à cause de la nudité dans un cadre de tous les
+jours, ouverte, sans le couvert de la mythologie.
+Attire l'attention de façon provoquante sur la femme nue qui a grandement posé
+problème à l'époque. Oeuvre très décriée.
+
+Autres exemple : oeuvres d'appel à la haine ou décrivant des choses horribles
+(Pamphlets antisémites de Céline, scènes de torture sexuelle dans l'oeuvre de
+Sade).
+Peut-on censurer un oeuvre qui menaçe la dignité humaine ? Un propos choquant
+doit-il être occulté à tous pour ne pas blesser des personnes ?
+
+Qu'en est-il pour l'oeuvre non immorale d'un artiste immoral ?
+Exemple des réalisateurs de cinéma accusés de viol -> Légitime de ne pas donner
+une récompense au réalisateur, mais illégitime de boycotter le film puisque
+c'est le travail d'autres ?
