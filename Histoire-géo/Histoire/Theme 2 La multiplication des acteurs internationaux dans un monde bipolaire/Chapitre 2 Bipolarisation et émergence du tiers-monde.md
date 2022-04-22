@@ -365,7 +365,7 @@ Le colonel de Castres se rend le 17 mai à 17h30. Les discussions qui commencent
 en juin sont ainsi dominées par Hô Chi Minh et aboutissent le 21 juillet 1954.
 Les accords de Genève ainsi signés postulent que :
 - Les Français ont 300 jours pour partir (ils seront directement renvoyés en
-    Indochine).
+    Algérie).
 - Le Vietnam est séparé en deux par le 17ème parallèle, et des élections sont
     prévues pour réunir les deux pays. De fait, deux Vietnam sont séparés : au
     nord, la république démocratique du Vietnam de Hô Chi Minh et au sud celle
