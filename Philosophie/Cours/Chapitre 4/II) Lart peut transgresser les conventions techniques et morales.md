@@ -105,3 +105,27 @@ Qu'en est-il pour l'oeuvre non immorale d'un artiste immoral ?
 Exemple des réalisateurs de cinéma accusés de viol -> Légitime de ne pas donner
 une récompense au réalisateur, mais illégitime de boycotter le film puisque
 c'est le travail d'autres ?
+
+## c) Un artiste allant à l'encontre de nos règles peut être un génie
+Génie : notion de facilité dans la création
+Il se peut que l'artiste dépasse ainsi notre temps ou nos règles, et qu'on ne le
+comprenne pas ou qu'il révolutionne son domaine.
+
+#### Illustration: Extrait du film *Amadeus*, 1985
+Opposition entre la présentation de Mozart, génie qui se laisse aller et écrit
+sans difficulté, et son rival qui compose avec grande difficulté et ferveur.
+Mozart humilie sans le remarquer son rival en lerejouant sans peine et en le
+corrigeant.
+Le génie est-il construit uniquement sur l'aptitude naturelle ?
+Non, travaille et produit de même : il impose un nouveau style et de nouvelles
+règles selon Kant.
+Chez Nieztsche, il s'agit de toute façon de travail et il n'y a pas de magie ou
+de talent particulier.
+
+#### Illustration: *Aurélie Dupont, l'espace d'un instant*
+Film sur une danseuse étoile
+La scène présente des entraînements de la danseuse
+Ici, c'est le travail incroybale de la danseuse qui fat d'elle un génie et une
+excellente danseuse.
+Est-ce qu'un effort fait par passion ou par amusement reste-t-il un effort ? Le
+génie ne serait-il alors que quelq'un qui peut s'amuser ainsi ?
