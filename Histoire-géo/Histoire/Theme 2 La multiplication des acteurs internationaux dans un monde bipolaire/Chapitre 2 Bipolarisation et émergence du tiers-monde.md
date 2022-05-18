@@ -369,9 +369,70 @@ Les accords de Genève ainsi signés postulent que :
 - Le Vietnam est séparé en deux par le 17ème parallèle, et des élections sont
     prévues pour réunir les deux pays. De fait, deux Vietnam sont séparés : au
     nord, la république démocratique du Vietnam de Hô Chi Minh et au sud celle
-    de Ngô Dinh Dien.
+    de Ngô Dinh Diem.
 Le bilan de cette guerre est terrible : 20 000 morts français et 11 000
 légionnaires, 15 000 africains et 46 000 indochinois. De plus, le nombre de
 portés disparus est drastique.
 À partir de 1954, et du départ des français, les américains envoient de plus en
-plus de "conseillers militaires" et soutiennent le gouvernement de Dien.
+plus de "conseillers militaires" et soutiennent le gouvernement de Diem.
+
+### La Guerre du Vietnam
+La Guerre du Vietnam est terriblement meurtrière du fait de la nature des
+combats, mais aussi des conscriptions : volontaires de tous types de civils du
+côté Vietnamien, et très jeunes du côté Américain (grande part de pertes de
+17-19).
+
+Suite à la guerre d'Indochine, les américains ont pris le relais. Ils continuent
+la guerre, motivés par la théorie des dominos, dans la peur que toute l'Asie du
+sud-est devienne communiste.
+
+L'ampleur du drame Vietnamien est le résultat d'une triple erreur du
+gouvernement américain:
+- Les américains se sont obstinés à soutenir la dictature de Ngô Dinh Diem, car
+    celui-ci est anti-communiste. Celui-ci ne respecte néanmoins pas les accords
+    de Genève, et ne fait pas d'élections. Il lutte contre le Bouddhisme en
+    général, et réprime la plupart de ses opposants. Ils continueront jusqu'en
+    1963, et une dictature militaire le renverse. Cette dernière s'alliera avec
+    les américains.
+- La théorie des dominos est une erreur géopolitique. Cette certitude amène les
+    américains à dépenser des moyens énormes et à envoyer de très nombreux
+    hommes. Les exactions sont nombreuses et les décisions souvent irraisonnées
+    pour empêcher cette prédiction de se réaliser.
+- La certitude des américains de gagner cette guerre en tant que plus grande
+    puissance militaire mondiale est trop forte, et quand la guerre s'enlise
+    ils sous-estiment totalement les Viêt-Congs, qui sont commandés par le
+    général Giap. Ils ont la stratégie, la résilience et la résistance que les
+    américains ne pensaient pas rencontrer. De plus, les mêmes problèmes se
+    posent que pour les français : la connaissance du terrain et la capacité à
+    le pratiquer manquent, la résistance civile est très forte ...
+
+Cette guerre est ainsi l'un des évènements les plus importants de l'histoire
+américaine. C'est une guerre asymétrique, qui n'utilise pas d'armes
+conventionnelles, marquée par le coût humain et la violence du conflit. Le bilan
+sera très dur pour les américains à cause de la transformation du front et des
+nombreux disparus ou capturés. On compte (aux estimations les plus basses) 2
+millions de morts Vietnamiens (l'état civil est peu développé, donc ces chiffres
+sont estimés plus haut à 3 millions). 58 177 morts et 154 000 blessés du côté
+américains, mais aussi de nombreux traumatismes moraux qui seront mal pris en
+charge au retour des vétérans. La plupart d'entre eux, très jeunes, seront
+marqués à vie.
+Les stratégies médiatiques et le suivi des soldats seront bien mieux mis en
+place, en particulier pendant la guerre du Koweït (1ère guerre du Golfe). La
+trop grande attention et le suivi systématique des soldats fera même monter des
+angoisses aux vétérans suivants.
+Le coût de la guerre pour les américains est tel que certains spéculent sur la
+continuation de la guerre comme une façon d'éviter une crise. On chiffre à 720
+milliards de Dollars actuels (contre 160 millions d'euros le "quoi qu'il en
+coûte").
+
+La guerre du Vietnam a marqué toute une génération. Il s'agit non seulement
+d'un conflit de guerre froide mais aussi une guerre civile entre les
+Vietnamiens. Encore après la guerre, le conflit reste un traumatisme pour les
+américains, dénoncé ou remémoré à travers le cinéma.
+
+La guerre est aussi marquée par l'escalade du conflit : d'abord les américains
+interviennent par l'envoi de "conseillers", qui s'allient à Diem, puis la guerre
+éclate officiellement le 11 décembre 1961. Un porte-avions débarque alors et
+fait débarquer deux escadrilles d'hélicoptères.
+Les américains soutiennent obstinément Diem, provoquant le mécontentement chez
+les Viêt-Congs au sud, qui recevra de l'aide du nord.
