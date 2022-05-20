@@ -40,4 +40,57 @@ Limites : Si le plaisir est éphémère, cette recherche est vaine ou frustrante
 Possibilité de se détruire par un plaisir mauvais ou de s'habituer (et donc de
 ne plus être satisfait par ce qu'on a eu avant)
 Platon tourne en ridicule cette opinion, comparant la vie de plaisirs proposée
-à un oiseau qui fiente et mange en même temps.
+à un oiseau qui fiente et mange en même temps. -> attitude absurde et
+irrationelle, donc éloignée de notre humanité (l'action absurde est vue dans la
+plupart des supplices de la mythologie grecque : Danaïdes (qui remplissent un
+tonneau percé), Sysiphe (Monter un rocher rond en haut d'une montagne)).
+
+### Texte d'Épicure
+Considère le bonheur comme but un but ultime, et celle-ci doit passer par le
+plaisir ("Le commencement et la fin de la vie heureuse").
+Néanmoins, il considère qu'il faut discerner les bons plaisirs et les plus
+naturels, et être capable de les mesurer et comparer pour faire le bon choix,
+voire des sacrifices.
+
+> Tout plaisir, pris en lui-même et dans sa nature propre, est donc un bien, et
+> cependant tout plaisir n'est pas à rechercher; pareillement, toute douleur est
+> un mal, et cependant toute douleur n'est pas à éviter.
+
+Il classifie ainsi les désirs et les plaisirs :
+- Les naturels, qui sont bons et à rechercher, eux-même hiérarchisés par leur
+    "priorité" :
+    - Les désirs nécessaires, pour la "tranquillité du corps" (besoins vitaux,
+        sommeil, nourriture, santé ...)
+    - Les désirs non nécessaires, c'est à dire la recherche la recherche modérée
+        de l'agréable (parmi lequel la gourmandise ou le raffinement)
+- Les désirs vains, séparés entre :
+    - Les désirs artificiels, comptant les désirs de recherche ou de gloire, qui
+        risquent de nous faire du mal, créés par la société et non notre nature
+    - Les désirs irréalisables, comme la recherche d'immortalité, qui ne peut
+        que nous rendre malheureux puisqu'ils ne peuvent être accomplis.
+
+Le but est d'atteindre l'ataraxie, l'état dans lequel on ne se sent plus dérangé
+par quoi que ce soit.
+
+Vision Épicurienne critiqué par celle des Stoïciens, qui voient la recherche du
+plaisir comme un risque d'être dominé par ses propres passions.
+Un contre-exemple plus pratique est que nous ne voulons pas toujours "nous faire
+plaisir" en fonction de notre état mental (aller à une fête en étant déprimé,
+par exemple).
+Son disciple Ménécée ajoute des préceptes à cette vision :
+- il ne faut pas craindre les dieux (ils sont matériels s'ils existent selon lui)
+- ne pas craindre la mort (vision très matérialiste, atomiste : le corps comme
+- l'âme est composé d'atomes et tout se perdra avec la mort pour se rassembler
+    plus tard plus loin)
+- ne pas craindre la souffrance (parce que celle-ci est temporaire, ou si elle
+    est trop forte conduira de toute façon à la mort donc l'arrêt) (=> très
+    problématique face à beaucoup d'exemples)
+- le bonheur est accessible (nous n'avons pas besoin de quelque chose
+    d'accessible, et il faut croire qu'on peut toujours trouver des sources de
+    plaisir)
+
+Est-ce que l'idéal d'ataraxie n'est pas inhumain, ou ne mènerait pas à une
+indifférence dangereuse pour soi-même et les autres ?
+
+À l'inverse, les stoïcens (créés par Zénon de Kition, leur nom provient du
+portique sous lequel ils se retrouvaient)
